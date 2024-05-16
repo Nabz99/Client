@@ -1,0 +1,29 @@
+/* AboutUs.css */
+
+.about-us {
+    padding: 50px 0;
+  }
+  
+  .about-text {
+    text-align: center;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .description {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  /* Center the text vertically */
+  .about-us {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Set the height to 100% of the viewport height for vertical centering */
+  }
+  
