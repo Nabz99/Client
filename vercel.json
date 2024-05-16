@@ -15,8 +15,8 @@
       "handle": "filesystem"
     },
     {
-      "src": "/(.*).(js|json)",
-      "dest": "/src/$1.$2"
+      "src": "/src/index.js",
+      "dest": "/src/index.js"
     }
   ]
 }
